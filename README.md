@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  @Yamila-Orozco 
 - 👀 I’m interested in teaching English while I'm learning code programming
 - 🌱 I’m currently learning HTML and CSS
-- 📫 How to reach me @INGLESPARAPROGRAMADORES
+- 📫 How to reach me orozcoyamila@movimientolearn.com
 
 <!---
 Yamila-Orozco/Yamila-Orozco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
